@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hai, I am <a href="https://aromalsanthosh.com" target="_blank">Fuhad Sanin</a> <img
+    <h1>Hi there, I am <a href="https://aromalsanthosh.com" target="_blank">Fuhad Sanin</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <br/><br/>
     <p>Welcome to my Github profile !<br />
@@ -7,22 +7,20 @@ Hi there! My name is Fuhad Sanin and I'm a front-end web developer with expertis
       Whether you're interested in may services, have a project you'd like to discuss, or just want to say hello, please feel free to reach out to us using the contact .
  </p>
         <div>
-            <a href="https://twitter.com/aromalhere" target="_blank"><img alt="Twitter"
+            <a href="https://twitter.com/fuhad500" target="_blank"><img alt="Twitter"
                     src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-            <a href="https://www.linkedin.com/in/aromalsanthosh" target="_blank"><img alt="LinkedIn"
+            <a href="https://www.linkedin.com/in/fuhad-sanin-b469a3217/" target="_blank"><img alt="LinkedIn"
                     src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-            <a href="mailto:aromalponmana@gmail.com" target="_blank"><img alt="Gmail"
+            <a href="mailto:fuhadsanin500@gmail.com" target="_blank"><img alt="Gmail"
                     src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
             <a href="https://wa.me/918547635528/" target="_blank"><img alt="Whatsapp"
                     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-            <a href="https://t.me/aromalhere"><img alt="Telegram"
+            <a href="https://t.me/fuhadsanin"><img alt="Telegram"
                     src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br>
                     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="">
                     <a href=""></a>
                     <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
                     <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white®" alt=""></a><br>
-            <a href="https://t.me/aromalhere"><img alt="Telegram"
-                    src="https://komarev.com/ghpvc/?username=aromalasanthosh"></a>
                     <br> 
         </div>
 </div>
@@ -31,17 +29,11 @@ Hi there! My name is Fuhad Sanin and I'm a front-end web developer with expertis
     <div>
         <h2><img align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
-            What I'm up to</h2>
+            About me</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm currently working on Full Stack Web Development 🌐</li>
-            <li> 💬 Ask me about Linux <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1593980850/9611/linux.png?1593980850"
-                    width="16" />, Android <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598"
-                    width="16" /></li>
-            <li> 🎓 I'm currently learning Ruby On Rails <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1643514044/31/ruby.png?1643514044"
-                    width="16" /></li>
+                <li> 👨🏻‍💻 I'm currently working on Full Stack Web Development 🌐</li>
+                <li> 💬 Ask me about React, Web Development</li>
+                <li> 🎓 I'm currently learning Node JS </li>
             <li>📫 How to reach me : <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
                 <a href="" target="_blank">fuhadsanin500@gmail.com</a></li>
