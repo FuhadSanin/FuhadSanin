@@ -85,6 +85,12 @@ Hi there! My name is Fuhad Sanin and I'm a front-end web developer with expertis
 
 <br />
 
+<div align="center">
+    <p><img align-"left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuhadsanin&show_icons=true&locale=en&layout=compact" alt="fuhadsanin" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fuhadsanin&" alt="fuhadsanin" /></p>
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=fuhadsanin&show_icons=true&locale=en" alt="fuhadsanin" /></p>
+</div>
+
 
 
 
