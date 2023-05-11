@@ -7,8 +7,8 @@ Hi there! My name is Fuhad Sanin and I'm a front-end web developer with expertis
       Whether you're interested in may services, have a project you'd like to discuss, or just want to say hello, please feel free to reach out to us using the contact .
  </p>
         <div>
-            <a href="https://twitter.com/fuhad500" target="_blank"><img alt="Twitter"
-                    src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<!--             <a href="https://twitter.com/fuhad500" target="_blank"><img alt="Twitter"
+                    src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
             <a href="https://www.linkedin.com/in/fuhad-sanin-b469a3217/" target="_blank"><img alt="LinkedIn"
                     src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
             <a href="mailto:fuhadsanin500@gmail.com" target="_blank"><img alt="Gmail"
