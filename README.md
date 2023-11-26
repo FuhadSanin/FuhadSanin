@@ -2,7 +2,9 @@
     <h1>Hi there, I am <a href="https://fuhadsanin.me" target="_blank">Fuhad Sanin</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <br/><br/>
-    <p>Welcome to my Github profile !<br />
+        <img alt="Developer Pic"
+        src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>    <br/><br/>
+<p>Welcome to my Github profile !<br />
 Hi there! My name is Fuhad Sanin and I'm a front-end web developer with expertise in HTML, CSS, JavaScript, and React.js. Over the years, I've built a number of websites and web applications, and I'm always looking for new challenges to tackle. <br/>
       Whether you're interested in may services, have a project you'd like to discuss, or just want to say hello, please feel free to reach out to us using the contact .
  </p>
