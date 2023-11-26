@@ -17,8 +17,8 @@ Hi there! My name is Fuhad Sanin and I'm a front-end web developer with expertis
                     src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
             <a href="https://wa.me/918547635528/" target="_blank"><img alt="Whatsapp"
                     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-            <a href="https://t.me/fuhadsanin"><img alt="Telegram"
-                    src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br>
+<!--             <a href="https://t.me/fuhadsanin"><img alt="Telegram"
+                    src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br> -->
                     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="">
                     <a href=""></a>
                     <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
